@@ -19,9 +19,9 @@ const Home = () => {
     <div>
       <Navbar />
       <Slider />
-      <HomeHeading>FEATURED PRODUCTS</HomeHeading>
+      <HomeHeading>CATEGORIES</HomeHeading>
       <Categories />
-      <HomeHeading>PRODUCTS</HomeHeading>
+      <HomeHeading>FEATURED PRODUCTS</HomeHeading>
 
       <Products />
       <Footer />
